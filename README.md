@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/here-and-tomorrow-llc-audio-player-mcp-badge.png)](https://mseep.ai/app/here-and-tomorrow-llc-audio-player-mcp)
+
 
 # Audio Player MCP Server
 
